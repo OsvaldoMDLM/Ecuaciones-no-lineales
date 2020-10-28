@@ -1,0 +1,24 @@
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.exe.config
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.exe
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.pdb
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csprojAssemblyReference.cache
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.home.resources
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.Properties.Resources.resources
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csproj.GenerateResource.cache
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csproj.CoreCompileInputs.cache
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.exe
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.pdb
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.Metodo_de_la_secante.resources
+D:\Users\osval\Documentos\metodos numericos\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.portadacs.resources
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.exe.config
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.exe
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\bin\Debug\Ecuaciones no lineales.pdb
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csprojAssemblyReference.cache
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.home.resources
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.Metodo_de_la_secante.resources
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.portadacs.resources
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones_no_lineales.Properties.Resources.resources
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csproj.GenerateResource.cache
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.csproj.CoreCompileInputs.cache
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.exe
+D:\Users\osval\Documentos\programas\c#\Ecuaciones no lineales\Ecuaciones no lineales\obj\Debug\Ecuaciones no lineales.pdb
